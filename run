@@ -1,2 +1,2 @@
 #!/bin/bash
-go build && cat football.dat | kata2-sports 
+go build && cat football.dat | oct-kata2-sports 
